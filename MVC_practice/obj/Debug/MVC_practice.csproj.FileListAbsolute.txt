@@ -81,6 +81,5 @@ D:\程式開發(git)\MVC架構練習\MVC_practice\MVC_practice\bin\zh-Hant\Syste
 D:\程式開發(git)\MVC架構練習\MVC_practice\MVC_practice\bin\zh-Hant\System.Web.WebPages.Razor.resources.dll
 D:\程式開發(git)\MVC架構練習\MVC_practice\MVC_practice\obj\Debug\MVC_practice.csproj.AssemblyReference.cache
 D:\程式開發(git)\MVC架構練習\MVC_practice\MVC_practice\obj\Debug\MVC_practice.csproj.CoreCompileInputs.cache
-D:\程式開發(git)\MVC架構練習\MVC_practice\MVC_practice\obj\Debug\MVC_practice.csproj.CopyComplete
 D:\程式開發(git)\MVC架構練習\MVC_practice\MVC_practice\obj\Debug\MVC_practice.dll
 D:\程式開發(git)\MVC架構練習\MVC_practice\MVC_practice\obj\Debug\MVC_practice.pdb
